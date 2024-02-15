@@ -3,7 +3,7 @@
 
 Supervised by Dr Stuart King (University of Edinburgh) and Dr Jonas Latz (Heriot-Watt University), in collaboration with Tim Hurst and Anne Braae from Brainnwave
 
-Data provided by Tim: [Dropbox link](https://www.dropbox.com/s/bzd2lerk49kjced/wetransfer_edinburgh_2023-01-04_1350.zip?dl=0)
+Data provided by Tim Hurst.
 
 ## How to use
 Optional: Run `python src/graph_gen.py` to generate the graph, make sure the files required are within the `data` folder.
