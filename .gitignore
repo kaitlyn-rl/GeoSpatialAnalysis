@@ -1,0 +1,12 @@
+.DS_Store
+*/.DS_Store
+jobs/
+*/archive/
+*.png
+*.npy
+results/
+*.gif
+presentation/
+*/.cache/
+*/.ipynb_checkpoints/
+*/__pycache__/
